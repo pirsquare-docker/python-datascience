@@ -1,5 +1,5 @@
 # python-datascience
-Python's datascience libraries like scipy/scikit-learn/pandas takes way too long to build from scratch. Why not simply write a dockerfile to run automated builds on dockerhub. This way you can easily fetch pre-built images directly.
+Python's datascience libraries like scipy/scikit-learn/pandas takes way too long to build from scratch. Why not just write a dockerfile to run automated builds on dockerhub. This way you can easily fetch pre-built images directly.
 
 ## Installation
 
