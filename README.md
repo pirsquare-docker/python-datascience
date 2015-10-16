@@ -5,6 +5,7 @@ Python's datascience libraries like scipy/scikit-learn/pandas takes way too long
 
     docker pull pirsquare/python-datascience
 
+
 ## Base Image
 pirsquare/python-common
 
