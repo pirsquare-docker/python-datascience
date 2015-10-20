@@ -3,11 +3,11 @@ Python's datascience libraries like scipy/scikit-learn/pandas takes way too long
 
 ## Installation
 
-    docker pull pirsquare/python-datascience
+    docker pull pirsquare/python-datascience:latest
 
 
 ## Base Image
-pirsquare/python-common
+pirsquare/python-common:centos6.6
 
 
 ## Details

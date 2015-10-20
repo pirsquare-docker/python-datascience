@@ -1,4 +1,4 @@
-FROM pirsquare/python-common:latest
+FROM pirsquare/python-common:centos6.6
 MAINTAINER Ryan Liao <pirsquare.ryan@gmail.com>
 
 RUN yum install -y gcc gcc-c++ openssl-devel lua-devel python-devel python-setuptools \
